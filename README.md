@@ -1,4 +1,13 @@
 # ATM_SpringBoot
+
+# Steps to run the program
+# Step 1
+Generate the Jar File
+# Step 2
+a. java -jar atm-0.0.1-SNAPSHOT.jar <br />
+b. You can also executing java -jar atm-0.0.1-SNAPSHOT.jar java -jar atm-0.0.1-SNAPSHOT.jar --spring.config.location=application.properties
+
+# Problem Statement
 Develop a program called ATM. It allows customers to deposit and withdraw in these denominations: 20, 10, 5, and 1 dollar bills.
 
 Deposit: Customer inputs the number of currency notes in each denomination
